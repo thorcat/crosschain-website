@@ -1,10 +1,11 @@
-
-
+---
+sidebar_label: Affiliate Program
+sidebar_position: 3
+---
 
   
 
-## Ever want to run your own exchange?
-
+### Ever want to run your own exchange?
 #### Now you can earn up to 80% of the fees charged at Crosschain.Quest by sharing an affiliate link. Crosschain.Quest is a fully client-side app so here’s how it works:<p>&nbsp;</p>    
 
 
@@ -25,13 +26,16 @@
 
 ### 3. The Thorchain network converts the fee to $RUNE and sends it to your address. (no trust required)
 
-In order to send Rune to your address, the fees must first be converted by the network. If the amount of money swapped is too small, it will be swallowed by the network because it will be unable to pay for the conversion.<p>&nbsp;</p>  
-<p>&nbsp;</p>   
+In order to send Rune to your address, the fees must first be converted by the network. If the amount of money swapped is too small, it will be swallowed by the network because it will be unable to pay for the conversion.
+
+
+
 
 ![affiliateprocess](./images/affiliateprocess.png)
 
-<p>&nbsp;</p>  
- 
+
+
+
 
 ## Crypto Karma: Recruiting other affiliates
 
@@ -46,7 +50,5 @@ In order to send Rune to your address, the fees must first be converted by the n
 
 ## How do I make sure I’m a top tier affiliate?
 
-Crosschain.Quest is purely client-side. All affiliate information is stored in your browser, so you can clear any affiliate information by clearing your cache. With that said, please consider keeping the affiliate information to pay gratitude to the affiliate who brought you to this site.<p>&nbsp;</p>  
+Crosschain.Quest is purely client-side. All affiliate information is stored in your browser, so you can clear any affiliate information by clearing your cache. With that said, please consider keeping the affiliate information to pay gratitude to the affiliate who brought you to this site.
 
-
-![graph](./images/graph.png)
