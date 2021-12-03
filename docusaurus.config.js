@@ -49,11 +49,24 @@ const config = {
           src: 'img/ccq4.svg',
         },
         items: [
+          {type: 'doc', docId:'About', label: 'About', position: 'left'},
           {
             type: 'doc',
-            docId: 'About',
+            docId: 'how-to/Overview',
             position: 'left',
             label: 'Tutorial',
+          },
+          {
+            type: 'doc',
+            docId: 'Affiliate Program',
+            position: 'left',
+            label: 'Affiliate',
+          },
+          {
+            type: 'doc',
+            docId: 'Disclaimer',
+            position: 'left',
+            label: 'Disclaimer',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
         ],
@@ -65,8 +78,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/About',
+                label: 'Docs',
+                to: '/about/About',
               },
             ],
           },
