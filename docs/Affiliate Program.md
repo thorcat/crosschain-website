@@ -51,4 +51,9 @@ In order to send Rune to your address, the fees must first be converted by the n
 ## How do I make sure I’m a top tier affiliate?
 
 Crosschain.Quest is purely client-side. All affiliate information is stored in your browser, so you can clear any affiliate information by clearing your cache. With that said, please consider keeping the affiliate information to pay gratitude to the affiliate who brought you to this site.
+<p>&nbsp;</p> 
+<p>&nbsp;</p>
+CROSSCHAIN.QUEST reserves the right to amend or withdraw this article and/or the terms of our Affiliate Program at any time and for any reason, without prior notice.
 
+
+CROSSCHAIN.QUEST may adjust the proportion of referrals at any point and reserves the right to adjust the rules of the referral program.

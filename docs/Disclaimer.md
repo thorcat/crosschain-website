@@ -8,3 +8,9 @@ sidebar_position: 4
 
 
 CROSSCHAIN.QUEST IS PROVIDED "AS IS", AT YOUR OWN RISK, AND WITHOUT WARRANTIES OF ANY KIND. None of the protocols used on thise site were created by Crosschain.Quest, it does not provide, own, or control the any of the protocols. Upgrades and modifications to the protocol are managed independent of this site. No developer of Crosschain.Quest will be liable for any claims or damages whatsoever associated with your use, inability to use, or your interaction with other users of the decentralized protocols used in this site including any direct, indirect, incidental, special, exemplary, punitive or consequential damages, or loss of profits, cryptocurrencies, tokens, or anything else of value.
+
+ 
+CROSSCHAIN.QUEST reserves the right to amend or withdraw this article and/or the terms of our Affiliate Program at any time and for any reason, without prior notice.
+
+
+CROSSCHAIN.QUEST may adjust the proportion of referrals at any point and reserves the right to adjust the rules of the referral program.
