@@ -12,9 +12,8 @@
         <id>crosschain-blog-post</id>
         <link href="https://crosschain.quest/blog/crosschain-blog-post"/>
         <updated>2021-12-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
-        <content type="html"><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/">MDX</a>.</p><p>:::tip</p><p>Use the power of React to create interactive blog posts.</p><pre><code class="language-js">&lt;button onClick={() =&gt; alert(&#x27;button clicked!&#x27;)}&gt;Click me!&lt;/button&gt;
-</code></pre><button>Click me!</button><p>:::</p>]]></content>
+        <summary type="html"><![CDATA[Hi! I am building this site to be a crosschain dex. You don't need to go through the hasle of a centralized exchange to swap your coin into other blockchains. Here you can swap Bitcoin for Litecoin, Ether for BNB, etc. This blog post is just a placeholder, but I hope to share more with you soon.]]></summary>
+        <content type="html"><![CDATA[<p>Hi! I am building this site to be a crosschain dex. You don&#x27;t need to go through the hasle of a centralized exchange to swap your coin into other blockchains. Here you can swap Bitcoin for Litecoin, Ether for BNB, etc. This blog post is just a placeholder, but I hope to share more with you soon.</p>]]></content>
         <author>
             <name>Thorcat</name>
             <uri>https://github.com/thorcat</uri>
