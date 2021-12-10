@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrosschain_quest=self.webpackChunkcrosschain_quest||[]).push([[535],{5641:function(s){s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Crosschain","permalink":"/blog/crosschain-blog-post"}]}')}}]);
