@@ -4,14 +4,14 @@
         <title>Crosschain.Quest Blog</title>
         <link>https://crosschain.quest/blog</link>
         <description>Crosschain.Quest Blog</description>
-        <lastBuildDate>Fri, 03 Dec 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Crosschain]]></title>
             <link>https://crosschain.quest/blog/crosschain-blog-post</link>
             <guid>crosschain-blog-post</guid>
-            <pubDate>Fri, 03 Dec 2021 00:00:00 GMT</pubDate>
+            <pubDate>Fri, 10 Dec 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
             <content:encoded><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/">MDX</a>.</p><p>:::tip</p><p>Use the power of React to create interactive blog posts.</p><pre><code class="language-js">&lt;button onClick={() =&gt; alert(&#x27;button clicked!&#x27;)}&gt;Click me!&lt;/button&gt;
 </code></pre><button>Click me!</button><p>:::</p>]]></content:encoded>
