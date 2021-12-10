@@ -18,13 +18,22 @@ function HomepageHeader() {
         <BrowserOnly>
         {() => <BackCanvas />}
         </BrowserOnly>
+        <div className="padding"></div>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="https://app.crosschain.quest">
             Launch App
           </Link>
+          
         </div>
+        <div className={styles.testnetButton}>
+        <Link
+            className="button button--secondary button--sm"
+            to="https://testnet.crosschain.quest">
+            Try Testnet
+          </Link>
+          </div>
       </div>
     </header>
   );
