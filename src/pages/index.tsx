@@ -21,7 +21,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://crosschain.quest">
+            to="https://app.crosschain.quest">
             Launch App
           </Link>
         </div>
