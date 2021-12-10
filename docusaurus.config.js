@@ -11,10 +11,11 @@ const config = {
   url: 'https://crosschain.quest',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenMarkdownLinks: 'throw',
+  projectName: 'crosschain-website',
+  trailingSlash: false,
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'thorcat', // Usually your GitHub org/user name.
 
   presets: [
     [
@@ -79,7 +80,7 @@ const config = {
             items: [
               {
                 label: 'Docs',
-                to: '/about/About',
+                to: '/docs/About',
               },
             ],
           },
@@ -92,7 +93,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/crosschainquest',
+                href: 'https://twitter.com/crosschainquest/',
               },
             ],
           },
@@ -105,7 +106,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/thorcat',
+                href: 'https://github.com/thorcat/',
               },
             ],
           },
