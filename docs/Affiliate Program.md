@@ -20,9 +20,9 @@ sidebar_position: 3
 
     * There is a 20% chance that crosschain.quest will receive the swap fee.<br />  
 
-    * There is an 80% that the affiliate(s) will earn the swap fee.<br />  
+    * There is an 80% chance that the affiliate(s) will earn the swap fee.<br />  
 
-- Over time, due to the law of large numbers the fees earned will tend towards a predictable percentage over a large number of swaps.
+- Over time, due to the [law of large numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers) the fees earned will tend towards a predictable percentage over a large number of swaps.
 
 ### 3. The Thorchain network converts the fee to $RUNE and sends it to your address. (no trust required)
 
