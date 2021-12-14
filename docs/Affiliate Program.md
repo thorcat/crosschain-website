@@ -22,7 +22,7 @@ sidebar_position: 3
 
     * There is an 80% chance that the affiliate(s) will earn the swap fee.<br />  
 
-- Over time, due to the [law of large numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers) the fees earned will tend towards a predictable percentage over a large number of swaps.
+- Over time, due to the [law of large numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers), the fees earned will tend towards a predictable percentage over a large number of swaps.
 
 ### 3. The Thorchain network converts the fee to $RUNE and sends it to your address. (no trust required)
 
@@ -37,7 +37,7 @@ In order to send Rune to your address, the fees must first be converted by the n
 
 
 
-## Crypto Karma: Recruiting other affiliates
+# Crypto Karma: Recruiting other affiliates
 
  In addition to swap fees, you can earn a percentage of fees after signing up additional affiliates. A user will sign up on the affiliate page and the application will recognize that they are themselves an affiliate. When the new affiliate shares their link, any fees earned from a swap will follow the 20/80 split, but now the new affiliate will have an 80% chance of earning the old affiliates swap fee.
 
