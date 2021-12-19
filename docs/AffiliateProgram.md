@@ -1,13 +1,10 @@
 ---
 sidebar_label: Affiliate Program
+title: Affiliate Program
 sidebar_position: 3
 ---
-
-  
-
 ### Ever want to run your own exchange?
-#### Now you can earn up to 80% of the fees charged at Crosschain.Quest by sharing an affiliate link. Crosschain.Quest is a fully client-side app so here’s how it works:<p>&nbsp;</p>    
-
+#### Now you can earn up to 80% of the fees charged at Crosschain.Quest by sharing an affiliate link. Crosschain.Quest is a fully client-side app so here’s how it works:
 
 ### 1. You create and share your affiliate link.
 

@@ -63,7 +63,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'Affiliate Program',
+            docId: 'AffiliateProgram',
             position: 'left',
             label: 'Affiliate',
           },
