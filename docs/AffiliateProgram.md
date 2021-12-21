@@ -36,6 +36,8 @@ In order to send Rune to your address, the fees must first be converted by the n
 
 # Crypto Karma: Recruiting other affiliates
 
+![affiliateTree](./images/affiliate-tree.svg)
+
  In addition to swap fees, you can earn a percentage of fees after signing up additional affiliates. A user will sign up on the affiliate page and the application will recognize that they are themselves an affiliate. When the new affiliate shares their link, any fees earned from a swap will follow the 20/80 split, but now the new affiliate will have an 80% chance of earning the old affiliates swap fee.
 
  ![affiliateprocess2](./images/affiliateprocess2.png)<p>&nbsp;</p>  
