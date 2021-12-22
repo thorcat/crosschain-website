@@ -23,7 +23,7 @@
 ![refreshbutton](./gifs/refreshbutton.gif)
 
 ### Total Fee 
-#### (shows sum of Network fee and transactione)
+#### (shows sum of Network fee and transaction
 
 ![transactionfees](./gifs/transactionfees.gif)
 
