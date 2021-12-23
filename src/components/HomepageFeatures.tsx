@@ -17,7 +17,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Crosschain Swaps',
-    image: '/img/undraw_docusaurus_mountain.svg',
+    image: '/img/crosschain_swaps.png',
     description: (
       <>
         Swap to and from your favorite blockchains. Crosschain.Quest is not limited to a single blockchain like many of the popular exchange. 
@@ -26,7 +26,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Earn up to 80% as an Affiliate',
-    image: '/img/undraw_docusaurus_react.svg',
+    image: '/img/affiliate.png',
     description: (
       <>
         Want to run your own exchange? You can share an affiliate link with your friends and earn from every swap. Earn 20% of swap fees from every additional affiliate you recruit!
@@ -35,10 +35,10 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Support #teamseas',
-    image: '/img/undraw_docusaurus_tree.svg',
+    image: '/img/teamseas.png',
     description: (
       <>
-        Crosschain.Quest is donating all transaction fees earned to #teamseas until they meet their ambitious goal of raising 30 million dollars to clear the ocean of trash!1
+        Crosschain.Quest is donating all transaction fees earned to #teamseas until they meet their ambitious goal of raising 30 million dollars to clear the ocean of trash!
       </>
     ),
   },

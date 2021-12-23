@@ -11,10 +11,11 @@ const config = {
   url: 'https://crosschain.quest',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenMarkdownLinks: 'throw',
+  projectName: 'crosschain-website',
+  trailingSlash: false,
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'thorcat', // Usually your GitHub org/user name.
 
   presets: [
     [
@@ -24,16 +25,20 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          editUrl: 'https://github.com/thorcat/crosschain-website',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+            'https://github.com/thorcat/crosschain-website/edit/main/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+        },
+        googleAnalytics: {
+          trackingID: 'G-CDTRS5TEWJ',
+          anonymizeIP: true,
         },
       }),
     ],
@@ -49,11 +54,24 @@ const config = {
           src: 'img/ccq4.svg',
         },
         items: [
+          {type: 'doc', docId:'About', label: 'About', position: 'left'},
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'how-to/Overview',
             position: 'left',
             label: 'Tutorial',
+          },
+          {
+            type: 'doc',
+            docId: 'AffiliateProgram',
+            position: 'left',
+            label: 'Affiliate',
+          },
+          {
+            type: 'doc',
+            docId: 'Disclaimer',
+            position: 'left',
+            label: 'Disclaimer',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
         ],
@@ -65,8 +83,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Docs',
+                to: '/docs/About',
               },
             ],
           },
@@ -79,7 +97,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/crosschainquest',
+                href: 'https://twitter.com/crosschainquest/',
               },
             ],
           },
@@ -92,12 +110,11 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/thorcat',
+                href: 'https://github.com/thorcat/',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
