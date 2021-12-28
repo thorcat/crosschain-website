@@ -36,12 +36,19 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-        googleAnalytics: {
-          trackingID: 'G-CDTRS5TEWJ',
-          anonymizeIP: true,
-        },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          trailingSlash: false,
+        }
       }),
-    ],
+    ],[
+    '@docusaurus/plugin-google-analytics',
+     /** @type {import('@docusaurus/plugin-google-analytics').Options} */
+     {
+        trackingID: 'G-MBJJ0WJWEQ',
+        anonymizeIP: true,
+     },]
   ],
 
   themeConfig:
