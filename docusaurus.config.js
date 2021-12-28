@@ -16,15 +16,15 @@ const config = {
   trailingSlash: false,
   favicon: 'img/favicon.ico',
   organizationName: 'thorcat', // Usually your GitHub org/user name.
-  plugins: [
-    [
-      '@docusaurus/plugin-google-analytics',
-       /** @type {import('@docusaurus/plugin-google-analytics').Options} */
-       {
-          trackingID: 'G-MBJJ0WJWEQ',
-          anonymizeIP: true,
-       },]
-  ],
+  // plugins: [
+  //   [
+  //     '@docusaurus/plugin-google-analytics',
+  //      /** @type {import('@docusaurus/plugin-google-analytics').Options} */
+  //      {
+  //         trackingID: 'G-MBJJ0WJWEQ',
+  //         anonymizeIP: true,
+  //      },]
+  // ],
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -48,7 +48,11 @@ const config = {
           changefreq: 'weekly',
           priority: 0.5,
           trailingSlash: false,
-        }
+        },
+        googleAnalytics:{
+            trackingID: 'G-MBJJ0WJWEQ',
+            anonymizeIP: true,
+        },
       }),
     ],
   ],
