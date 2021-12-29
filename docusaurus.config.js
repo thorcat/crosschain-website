@@ -53,6 +53,10 @@ const config = {
             trackingID: 'G-MBJJ0WJWEQ',
             anonymizeIP: true,
         },
+        gtag:{
+          trackingID: 'G-MBJJ0WJWEQ',
+          anonymizeIP: true, 
+        }
       }),
     ],
   ],
@@ -60,6 +64,10 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      themeConfig: {
+        metadata: [{name: 'keywords', content: 'crosschain, swaps, crosschain.quest, thorchain, bitcoin'}],
+        // This would become <meta name="keywords" content="cooking, blog"> in the generated HTML
+      },
       navbar: {
         title: 'Crosschain.Quest',
         logo: {
