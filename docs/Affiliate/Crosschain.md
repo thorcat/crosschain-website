@@ -1,12 +1,6 @@
 ---
-<<<<<<< HEAD:docs/Affiliate/Crosschain.md
 sidebar_label: Crosschain.quest
 sidebar_position: 2
-=======
-sidebar_label: Affiliate Program
-title: Affiliate Program
-sidebar_position: 3
->>>>>>> 60d0da44738066e27e790da40d040c67c787a807:docs/AffiliateProgram.md
 ---
 ### Ever want to run your own exchange?
 #### Now you can earn up to 80% of the fees charged at Crosschain.Quest by sharing an affiliate link. Crosschain.Quest is a fully client-side app so here’s how it works:
