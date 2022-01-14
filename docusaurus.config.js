@@ -11,11 +11,20 @@ const config = {
   url: 'https://crosschain.quest',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenMarkdownLinks: 'throw',
+  projectName: 'crosschain-website',
+  trailingSlash: false,
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
-
+  organizationName: 'thorcat', // Usually your GitHub org/user name.
+  // plugins: [
+  //   [
+  //     '@docusaurus/plugin-google-analytics',
+  //      /** @type {import('@docusaurus/plugin-google-analytics').Options} */
+  //      {
+  //         trackingID: 'G-MBJJ0WJWEQ',
+  //         anonymizeIP: true,
+  //      },]
+  // ],
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -24,17 +33,30 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          editUrl: 'https://github.com/thorcat/crosschain-website',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+            'https://github.com/thorcat/crosschain-website/edit/main/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          trailingSlash: false,
+        },
+        googleAnalytics:{
+            trackingID: 'G-MBJJ0WJWEQ',
+            anonymizeIP: true,
+        },
+        gtag:{
+          trackingID: 'G-MBJJ0WJWEQ',
+          anonymizeIP: true, 
+        }
       }),
     ],
   ],
@@ -42,6 +64,10 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      themeConfig: {
+        metadata: [{name: 'keywords', content: 'crosschain, swaps, crosschain.quest, thorchain, bitcoin'}],
+        // This would become <meta name="keywords" content="cooking, blog"> in the generated HTML
+      },
       navbar: {
         title: 'Crosschain.Quest',
         logo: {
@@ -58,7 +84,11 @@ const config = {
           },
           {
             type: 'doc',
+<<<<<<< HEAD
             docId: 'Affiliate/Crosschain',
+=======
+            docId: 'AffiliateProgram',
+>>>>>>> 60d0da44738066e27e790da40d040c67c787a807
             position: 'left',
             label: 'Affiliate',
           },
@@ -79,7 +109,7 @@ const config = {
             items: [
               {
                 label: 'Docs',
-                to: '/about/About',
+                to: '/docs/About',
               },
             ],
           },
@@ -92,7 +122,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/crosschainquest',
+                href: 'https://twitter.com/crosschainquest/',
               },
             ],
           },
@@ -105,7 +135,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/thorcat',
+                href: 'https://github.com/thorcat/',
               },
             ],
           },

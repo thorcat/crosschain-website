@@ -38,7 +38,7 @@ const FeatureList: FeatureItem[] = [
     image: '/img/teamseas.png',
     description: (
       <>
-        Crosschain.Quest is donating all transaction fees earned to #teamseas until they meet their ambitious goal of raising 30 million dollars to clear the ocean of trash!1
+        Crosschain.Quest is donating all transaction fees earned to #teamseas until they meet their ambitious goal of raising 30 million dollars to clear the ocean of trash!
       </>
     ),
   },
