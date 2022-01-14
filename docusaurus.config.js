@@ -58,7 +58,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'Affiliate Program',
+            docId: 'Affiliate/Crosschain',
             position: 'left',
             label: 'Affiliate',
           },
