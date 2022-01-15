@@ -18,6 +18,7 @@ sidebar_position: 1
 ### 2. A user makes a swap
 
 
+
 ### 3. The Thorchain network converts the fee to $RUNE and sends it to your address. (no trust required)
 
 In order to send Rune to your address, the fees must first be converted by the network. If the amount of money swapped is too small, it will be swallowed by the network because it will be unable to pay for the conversion.
@@ -25,7 +26,7 @@ In order to send Rune to your address, the fees must first be converted by the n
 
 
 
-![affiliateprocess](./gifs/affiliateprocess.png)
+![toptieraffiliate](./gifs/toptieraffiliate.png)
 
 
 
@@ -46,7 +47,7 @@ In order to send Rune to your address, the fees must first be converted by the n
 - Over time, due to the law of large numbers the fees earned will tend towards a predictable percentage over a large number of swaps.
 
 
- ![affiliateprocess2](./gifs/affiliateprocess2.png)<p>&nbsp;</p>  
+ ![buythorchainaffiliate](./gifs/buythorchainaffiliate.png)<p>&nbsp;</p>  
 
  ## Is this a pyramid scheme?
 
