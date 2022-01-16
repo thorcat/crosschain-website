@@ -8,12 +8,15 @@ sidebar_position: 1
 ### Ever want to run your own exchange?
 #### Now you can earn up to 100% of the fees charged at Buythorchain.com by sharing an affiliate link. Buythorchain.com is a fully client-side app so here’s how it works:    
 
-
-### 1. You create and share your affiliate link.
-
-- To create an affiliate link you will need a Thorchain address. This affiliate link will be cached in  the user’s browser.
+- To create an affiliate link you will first need a thorchain address which you can create on the site:
 
 ![connectwallet](./gifs/connectwallet.gif)
+
+## How it works
+### 1. You create and share your affiliate link.
+
+- Go to https://buythorchain.com/#/affiliate. When opened, this affiliate link will be cached in  the user’s browser. 
+
 
 ### 2. A user makes a swap
 
