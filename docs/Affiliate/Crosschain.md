@@ -7,7 +7,7 @@ sidebar_position: 2
 
 ### 1. You create and share your affiliate link.
 
-- To create an affiliate link https://crosschain.quest/docs/Affiliate/Crosschain you will need a Thorchain address. This affiliate link will be cached in  the user’s browser.
+- To create an affiliate link https://app.crosschain.quest/#/affiliateyarn you will need a Thorchain address. This affiliate link will be cached in  the user’s browser.
 
 
 ### 2. A user makes a swap
